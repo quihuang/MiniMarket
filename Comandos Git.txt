@@ -1,0 +1,6 @@
+Comandos de Profe Julioo
+
+git add .         		 --> Agregar todos los cambios 
+git commit -m "Nombre o descripcion del cambio"  
+git push --force 		--> subir cambios despues de hacer el commit
+git pull          		--> descargar cambios del commit
